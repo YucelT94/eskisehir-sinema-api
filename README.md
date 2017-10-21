@@ -1,4 +1,4 @@
-# Esgazete API
+# Eskişehir Sinema API
 
 Esgazete için web servis.
 
@@ -8,58 +8,16 @@ Esgazete için web servis.
 -node server 
 ```
 
-Başlıklar için
+Seanslar için
 
-Bütün Kategoriler:
-https://esgazete-api.herokuapp.com/esgazete
+Eskişehir Cinemaximum (Espark):
+https://eskisehir-sinema-api.herokuapp.com/sinema/cinemaximum
 
-Gündem:
-https://esgazete-api.herokuapp.com/esgazete/agenda
+Eskişehir Kanatlı Cinema Pink:
+https://eskisehir-sinema-api.herokuapp.com/sinema/kanatli
 
-Kültür-Sanat:
-https://esgazete-api.herokuapp.com/esgazete/art
+Eskişehir Özdilek Cinetime:
+https://eskisehir-sinema-api.herokuapp.com/sinema/ozdilek
 
-Alış-Veriş/İş dünyası:
-https://esgazete-api.herokuapp.com/esgazete/business
-
-Ekonomi:
-https://esgazete-api.herokuapp.com/esgazete/economy
-
-Eğitim:
-https://esgazete-api.herokuapp.com/esgazete/education
-
-Eğlence:
-https://esgazete-api.herokuapp.com/esgazete/fun
-
-Genel:
-https://esgazete-api.herokuapp.com/esgazete/general
-
-Sağlık:
-https://esgazete-api.herokuapp.com/esgazete/health
-
-Röportaj:
-https://esgazete-api.herokuapp.com/esgazete/interview
-
-Yaşam:
-https://esgazete-api.herokuapp.com/esgazete/life
-
-Magazin:
-https://esgazete-api.herokuapp.com/esgazete/magazin
-
-Siyaset:
-https://esgazete-api.herokuapp.com/esgazete/politics
-
-Asayiş:
-https://esgazete-api.herokuapp.com/esgazete/publicorder
-
-Spor:
-https://esgazete-api.herokuapp.com/esgazete/sport
-
-Teknoloji:
-https://esgazete-api.herokuapp.com/esgazete/technology
-
-Türkiye:
-https://esgazete-api.herokuapp.com/esgazete/turkey
-
-Dünya:
-https://esgazete-api.herokuapp.com/esgazete/world
+Yıldıztepe Hava Lojmanları:
+https://eskisehir-sinema-api.herokuapp.com/sinema/yildiztepe
