@@ -15,6 +15,7 @@ exports.yildiztepe = function (req, res, next) {
         var links = $('div.grid8.bestof.cinema-detail.shadow')
             .map(function (i, e) {
                 var tds = $(e).find('div.grid2');
+                var tds2 = $(e).find('div.grid6.fr');
                 return {
                     name: $(tds[0]).find('img').attr('alt'),
                     picUrl: $(tds[0]).find('img').attr('src'),
