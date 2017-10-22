@@ -19,7 +19,7 @@ exports.ozdilek = function (req, res, next) {
                 return {
                     name: $(tds[0]).find('img').attr('alt'),
                     picUrl: $(tds[0]).find('img').attr('src'),
-                    seance: $(tds2[0]).find('div.select-seans.selected-seans').text().match(/([01]?[0-9]|2[0-3]):[0-5][0-9]/g),
+                    seance: $(tds2[0]).find('div.select-seans.selected-seans').text().match(/([0-2]?[0-9]|2[0-3]):[0-5][0-9]/g),
                 };
             })
             .get();
